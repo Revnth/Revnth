@@ -15,3 +15,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<br />
+
+---
+ ### :zap: GitHub Stats
+ 
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Revnth&show_icons=true&theme=dark" />
+
